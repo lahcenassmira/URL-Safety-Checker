@@ -1,0 +1,7 @@
+url,is_spam
+http://example.com,0
+http://free-money.biz,1
+https://trustedsite.org,0
+http://win-a-prize.ru,1
+https://google.com,0
+http://click-now.xyz,1
